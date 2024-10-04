@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.header {
+    background-color: white;
+    color: black;
+}
+.sidebar{
+    background-color: white;
+    width: 20%;
+    color: black;
+}
